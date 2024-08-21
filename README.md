@@ -1,8 +1,8 @@
 # Liberatotop1
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanaGs&layout=compact&langs_count=7&theme=github_drakula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liberatotop1&layout=compact&langs_count=7&theme=github_drakula"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=santanaGs&show_icons=true&theme=transparent"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Liberatotop1&show_icons=true&theme=transparent"/>
 
 
 <div style="display: inline_block"><br>
