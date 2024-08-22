@@ -1,5 +1,5 @@
 # Ola, meu nome é Ysaac Miqueias
-sou estudante de Q.a e tenho alguns projetos.
+sou estudante de Analista de teste tenho alguns projetos.
 
 
 
