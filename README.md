@@ -3,13 +3,12 @@ sou estudante de Q.a e tenho alguns projetos.
 
 
 
-
+<div style="display: inline_block"><br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liberatotop1&layout=compact&langs_count=7&theme=github_drakula"/>
 
 
-
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Liberatotop1&show_icons=true&theme=transparent"/>
-
+</div>
 
 
 
@@ -26,5 +25,8 @@ sou estudante de Q.a e tenho alguns projetos.
   <a href="https://instagram.com/ysaac_liberato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ysaacmiqueias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ysaac-liberato-5823a3210?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+![snake animation] (https://github.com/Liberatotop1)
+
+
