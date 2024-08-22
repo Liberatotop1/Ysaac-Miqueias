@@ -27,6 +27,5 @@ sou estudante de Q.a e tenho alguns projetos.
   <a href="https://www.linkedin.com/in/ysaac-liberato-5823a3210?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake animation] (https://github.com/Liberatotop1)
 
 
