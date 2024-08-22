@@ -1,4 +1,4 @@
-# Ola meu nome é Ysaac Miqueias
+# Ola, meu nome é Ysaac Miqueias
 sou estudante de Q.a e tenho alguns projetos.
 
 
