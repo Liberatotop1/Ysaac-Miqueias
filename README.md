@@ -1,5 +1,5 @@
 # Ola, meu nome é Ysaac Miqueias
-sou estudante de Analista de teste tenho alguns projetos.
+sou estudante de Ads e meu objetivo profissional é me tornar um analista de testes, tenho alguns projetos.
 
 
 
